@@ -120,7 +120,7 @@ The project includes multiple visualizations, including:
 
 ### Developed vs Developing Maritime Trade
 
-![Developed vs Developing Trade](plots/developed_vs_developing.png)
+![Developed vs Developing Trade](plots/Developed_vs_Developing_Mairime_Trade.png)
 
 ### Net Dry Cargo Trade
 
