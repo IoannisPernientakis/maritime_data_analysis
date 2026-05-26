@@ -118,14 +118,6 @@ The project includes multiple visualizations, including:
 - Crude oil transportation analysis
 - Developed vs developing economy comparisons
 
-### Developed vs Developing Maritime Trade
-
-![Developed vs Developing Trade](plots/Developed_vs_Developing_Mairime_Trade.png)
-
-### Net Dry Cargo Trade
-
-![Net Trade](plots/net_trade.png)
----
 
 ## Data Limitations
 
