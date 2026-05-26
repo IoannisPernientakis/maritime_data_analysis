@@ -108,6 +108,14 @@ particularly in rapidly industrializing regions.
 
 ---
 
+## Future Improvements
+
+- Add forecasting models
+- Build an interactive dashboard
+- Expand the analysis to country-level trade flows
+
+---
+
 ## Visualizations
 
 The project includes multiple visualizations, including:
